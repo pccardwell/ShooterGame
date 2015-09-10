@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef1d85b1c6423dc41a36ae515be94e5d
+timeCreated: 1441596812
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MainPanel: {fileID: 156138, guid: 04de83780d732f74c9bb9a2ee24fa430, type: 2}
+  - OptionsPanel: {fileID: 156550, guid: 9bde2f0fadba67d4b936de4f1e7d0c73, type: 2}
+  - CreditPanel: {fileID: 171350, guid: 80b6f18823f72c14fbd5a4446991fc80, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
